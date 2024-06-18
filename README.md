@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=pkusunjy&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pkusunjy&layout=compact)
+
 <!--
 **pkusunjy/pkusunjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
